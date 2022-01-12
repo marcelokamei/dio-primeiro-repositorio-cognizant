@@ -1,1 +1,3 @@
 Arquivo para anotações gerais.
+
+Credenciais de token github salvas no linux.
