@@ -1,3 +1,5 @@
 Arquivo para anotações gerais.
 
 Credenciais de token github salvas no linux. - De novo.
+
+Texto adicionado em teste WSL2.
